@@ -20,6 +20,8 @@ I learned how to: <BR>
 * create k-fold Cross Validation Score <br>
 * create Correlations, Scatter Matrix to check which column/feature to use for modelling <br>
 * use Simple Imputer method to fill in unknown / not available values in a column / feature <br>
+* understand the relationship between the model.score(X_test, y_test) and the accuracy_score(y_test, model.predict(X_test)) <br>
+* know the Roc_Curve, Roc_Auc_Score, Ensemble models (AdaBoost Classifier, and Bagging Classifier) to name a few <br>
 
 Using the outcomes, I submitted the predicted classification to the Kaggle competition to know how the relevant model works in a real world. <br> 
     
